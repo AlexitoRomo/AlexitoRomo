@@ -22,4 +22,6 @@ cooltext.com
 https://github.com/ioteacher/ioteacher
 https://raw.githubusercontent.com/IoTeacher/IoTeacher/master/README.md
 
-||
+```C#
+console.WriteLine(¨HolaMundo!¨);
+```
