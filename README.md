@@ -1,8 +1,4 @@
-# myRepository
 Repositorio principal de prueba
-
-![](https://r72.cooltext.com/rendered/cooltext429326660250749.png)
-
 ### Hola, soy Alexander. Saludos
 
 Esto es un perfil de prueba
